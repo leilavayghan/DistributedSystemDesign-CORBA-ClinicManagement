@@ -1,0 +1,9 @@
+INFO    2016-07-12 17:24:06,162 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-07-12 17:24:09,526 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
+INFO    2016-07-12 17:24:12,855 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-07-12 17:24:23,508 [AWT-EventQueue-0] dsmssystem  - The manager with managerID of MTL1111 in clinic location MTL wants to transfer the record with the ID of DR10000 to the server in DDO
+INFO    2016-07-12 17:24:36,768 [AWT-EventQueue-0] dsmssystem  - Manager from DDO with manager ID DDO1111logged in this application
+INFO    2016-07-12 17:24:40,860 [AWT-EventQueue-0] dsmssystem  - Manager of clinic DDO with managerID DDO1111wants to know total number of records in all clinics
+INFO    2016-07-12 17:24:45,979 [AWT-EventQueue-0] dsmssystem  - Manager of clinic MTL with managerID MTL1111wants to know total number of records in all clinics
+INFO    2016-07-15 15:11:01,702 [AWT-EventQueue-0] dsmssystem  - Manager from MTL with manager ID MTL1111logged in this application
+INFO    2016-07-15 15:11:04,535 [AWT-EventQueue-0] dsmssystem  - New Doctor Record is created by manager with managerID MTL1111 in clinic location MTL
